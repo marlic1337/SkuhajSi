@@ -18,6 +18,9 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
+## Project author
+Mark Urh Rebec, Spletne tehnologije 2014/2015
+
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
